@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfidNet", "rfidNet\rfidNet.csproj", "{AADA2304-2002-43B4-8BB2-3BC6B2F2CBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AADA2304-2002-43B4-8BB2-3BC6B2F2CBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADA2304-2002-43B4-8BB2-3BC6B2F2CBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADA2304-2002-43B4-8BB2-3BC6B2F2CBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADA2304-2002-43B4-8BB2-3BC6B2F2CBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C04C5B0-FCF0-45BB-BF0B-8890FB18F935}
+	EndGlobalSection
+EndGlobal
